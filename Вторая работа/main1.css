@@ -1,0 +1,17 @@
+main{
+	column-count: 4;
+	column-gap: 3px;
+	
+}
+img{
+	max-width: 100%;
+	display:block;
+	margin:3px;
+}
+h1{
+	font-size: 48px;
+	font:Roboto;
+	color:#191970;
+	text-align: center;
+	margin:70px;
+}
